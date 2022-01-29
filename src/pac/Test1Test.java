@@ -7,6 +7,7 @@ public class Test1Test {
 	public void add()
 	{
 		System.out.println("hey");
+		System.out.println("hiii");
 	}
 
 }
